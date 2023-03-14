@@ -6,7 +6,7 @@ update: 2023-03-13
 tags:
   - TIL
   - 2023년 TIL
-series: "2023-03-TIL"
+series: "2023년 03월 TIL"
 ---
 
 ## 테스트용 문서
