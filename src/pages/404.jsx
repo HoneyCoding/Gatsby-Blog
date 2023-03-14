@@ -35,7 +35,7 @@ const NotFoundPage = () => (
     <SEO title={title} description={description} url={siteUrl} />
     <NotFound>
       <h2>404 ERROR</h2>
-      <h3>Page Not Found X(</h3>
+      <h3>페이지가 존재하지 않습니다 :(</h3>
     </NotFound>
   </Layout>
 )

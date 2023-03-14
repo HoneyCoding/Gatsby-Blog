@@ -1,12 +1,12 @@
 ---
-title: "TIL 2023.03.14"
+title: "TIL 2023-03-14"
 description:
 date: 2023-03-14
 update: 2023-03-14
 tags:
   - TIL
   - 2023년 TIL
-series: "2023년 3월 TIL"
+series: "2023년 03월 TIL"
 ---
 
 ## 테스트용 문서
