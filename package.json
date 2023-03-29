@@ -30,6 +30,7 @@
     "gatsby-transformer-sharp": "^5.7.0",
     "katex": "^0.16.4",
     "lodash": "^4.17.21",
+    "minipass": "4.2.5",
     "prismjs": "^1.29.0",
     "prop-types": "^15.8.1",
     "query-string": "^8.1.0",
@@ -42,11 +43,10 @@
     "react-scroll": "^1.8.9",
     "react-spring": "^9.7.1",
     "redux": "^4.2.1",
+    "sharp": "^0.31.3",
     "styled-components": "^5.3.8",
     "styled-reset": "^4.4.5",
-    "utterances-react-component": "^1.0.0",
-    "minipass": "4.2.5",
-    "sharp": "^0.31.3"
+    "utterances-react-component": "^1.0.0"
   },
   "devDependencies": {
     "eslint-config-react-app": "^7.0.1",
