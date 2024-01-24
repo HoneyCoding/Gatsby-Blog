@@ -20,8 +20,10 @@ URLSession은 Swift Foundation에 포함된 애플에서 제공하는 네트워�
 URLSession에는 싱글톤으로 제공되는 shared session을 제외하면 총 3가지 configuration이 존재한다
 1. default
 default는 shared와 유사한 session이다. 주로 delegate 패턴을 활용할 때에 default session을 생성하여 사용한다.
+
 2. ephemeral
 ephemeral은 default session에서 캐싱, 쿠키 저장 등을 하는 기능을 제외한 세션이다. 주로 브라우저 비밀 모드 등을 구현할 때 사용한다.
+
 3. background
 백그라운드 session은 백그라운드에서 콘텐츠 다운로드 / 업로드를 할 때 사용하는 session이다.
 
