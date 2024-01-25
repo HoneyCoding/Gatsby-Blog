@@ -49,8 +49,7 @@ tags:
         return layout
     }
     ```
-
-
+&nbsp;
 
 2. 화면이 회전할 때 UICollectionView의 layout이 제대로 업데이트되지 않는 문제
 
