@@ -14,7 +14,8 @@ tags:
 
 오랜만에 TIL을 작성한다. TIL 내용은 꾸준히 작성할 수 있도록 짧게나마 작성해보려 한다.
 
-1. [UICollectionViewCompositionalLayout](https://developer.apple.com/documentation/uikit/uicollectionviewcompositionallayout)
+1. UICollectionViewCompositionalLayout
+- https://developer.apple.com/documentation/uikit/uicollectionviewcompositionallayout
     
     UICollectionViewCompositionalLayout은 Apple에서 UICollectionView에 Layout을 적용할 때 사용할 수 있도록 만들어준 클래스이다. iOS 기준 13.0 버전 이상부터 사용이 가능하며, 코드는 아래와 같이 작성한다.
 
@@ -35,7 +36,8 @@ tags:
     ```
     UICollectionViewCompositionalLayout 인스턴스 하나를 생성하기 위해 `NSCollectionLayoutSize`, `NSCollectionLayoutItem`, `NSCollectionLayoutGroup`, `NSCollectionLayoutSection` 등의 클래스의 인스턴스를 생성해주어야 한다. 해당 내용에 대해서 더 깊이 있게는 다음에 공부할 것이다.
 
-2. [@IBSegueAction Attribute](https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-11-release-notes)
+2. @IBSegueAction Attribute
+- https://developer.apple.com/documentation/Xcode-Release-Notes/xcode-11-release-notes
 
     @IBSegueAction Attribute는 XCode 11에서 추가된 Attribute로, 화면이 전환될 때 segue가 생성하는 화면(ViewController)을 원하는 생성자로 생성하고 싶을 때 사용한다. 
     
